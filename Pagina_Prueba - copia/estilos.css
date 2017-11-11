@@ -1,0 +1,49 @@
+header>div>h1{
+    line-height: 50%;
+    display: block;
+}
+header>div>h3{
+    line-height: 50%;
+    display: block;
+}
+nav>ul>li{
+    display: inline-block;
+}
+header #titulo{
+    background-color:#6699ff ;
+    display: inline-flex;
+    width: 100%;
+}
+header #menuNavegacion{
+    background-color: #99ccff; 
+    padding:18px;
+    width: 100%;
+    font-style:none;
+    font-size: 30px;
+    position: fixed;
+    z-index: 3;
+}
+#imagenPerfil{
+    border-radius: 50%;
+}
+a:hover{
+    font-style: none;
+}
+#galeria{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 80px;
+}
+#informacionExtra{
+    text-align: center;
+    font-size: 50px;
+}
+#bloquePrincipal{
+    padding-top: 80px;
+}
+#imagenFacebook{
+    size: 50px;
+}
+#footer{
+    background-color: #949eb8;
+}
